@@ -11,6 +11,5 @@ jobs:
 
     steps:
       - name: Print message
-        run: echo "Testing github workflow"
-        run: echo "This is first commit"  
+        run: echo "Testing github workflow test"
 
