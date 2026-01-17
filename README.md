@@ -1,0 +1,1 @@
+# hsp-sample-qa-automation
